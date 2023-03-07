@@ -207,5 +207,5 @@ int main()
 	displayCountOfLetterCombinationsIn(line, combinations);
 	displayMaxCountOfSymbolIn(line);
 
-	cout << str << " " << str2 << endl;
+	return EXIT_SUCCESS; // test from ilya
 }
