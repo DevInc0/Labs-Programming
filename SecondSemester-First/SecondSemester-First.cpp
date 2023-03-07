@@ -19,5 +19,5 @@ int main()
 
 	cout << str << " " << str2 << endl;
 
-	// aboba
+	// aboba1
 }
