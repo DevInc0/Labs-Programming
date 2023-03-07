@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Labs-Programming.cpp">
+    <ClCompile Include="SecondSemester-First.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
