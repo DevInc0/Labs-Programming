@@ -18,4 +18,6 @@ int main()
 	cin.getline(str2, 256);
 
 	cout << str << " " << str2 << endl;
+
+	// aboba
 }
